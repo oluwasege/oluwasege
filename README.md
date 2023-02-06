@@ -3,6 +3,7 @@
     I am a software developer, I build and design backend services
 <br>
 <br>
+
 - 🌱 I’m currently learning JavaScript and NodeJS
 
 - 👯 I’m looking to collaborate on interesting projects and also make money
