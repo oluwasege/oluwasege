@@ -1,6 +1,6 @@
-#### Hi 👋, I am Oluwasegun Akinpelu
+### Hi 👋, I am Oluwasegun Akinpelu
 <br>
-## I am a software developer, I build and design backend services
+I am a software developer, I build and design backend services
 <br>
 
 - 🌱 I’m currently learning JavaScript and NodeJS
