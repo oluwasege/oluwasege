@@ -15,7 +15,7 @@
 
 
 <br><br>
-![Oluwasegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasege&show_icons=true&theme=transparent)
+![Oluwasegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasege&show_icons=true&theme=nightowl)
 <br>
 <br>
 [![Oluwasegun's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwasege&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
