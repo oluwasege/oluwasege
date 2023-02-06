@@ -14,7 +14,7 @@
 - ⚡ Fun fact: I love playing video games, working out at the gym and basketball
 
 
-
+<br><br><br><br>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=oluwasege&theme=nightowl)](https://git.io/streak-stats)&nbsp; &nbsp; &nbsp; &nbsp; &nbsp;
 <br>
