@@ -1,11 +1,9 @@
 ### Hi 👋, I am Oluwasegun Akinpelu
 <br>
     A software Engineer
-<br>
+<br><br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasege&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasege" /> </p>
-<br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwasege&theme=onedark" alt="oluwasege" /></a> </p>
-<br>
 
 - 🌱 I’m currently learning JavaScript and NodeJS
 
@@ -16,7 +14,6 @@
 - 📫 How to reach me: akinpelu53@gmail.com
 
 - ⚡ Fun fact: I love playing video games, working out at the gym and basketball
-
 
 <br><br>
 ![Oluwasegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasege&show_icons=true&theme=nightowl)
