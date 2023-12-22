@@ -16,11 +16,6 @@
 
 
 <br><br>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasege&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasege" /> </p>
-<br><br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwasege&theme=onedark" alt="oluwasege" /></a> </p>
-<br><br>
 ![Oluwasegun's GitHub stats](https://github-readme-stats.vercel.app/api?username=oluwasege&show_icons=true&theme=nightowl)
 <br>
 <br>
@@ -29,3 +24,7 @@
 <br>
 [![Oluwasegun's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oluwasege&&theme=nightowl&layout=compact&card_width=445)](https://github.com/oluwasege/github-readme-stats)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasege&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasege" /> </p>
+<br><br>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwasege&theme=onedark" alt="oluwasege" /></a> </p>
+<br><br>
