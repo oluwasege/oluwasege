@@ -5,9 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=oluwasege&label=Profile%20views&color=0e75b6&style=flat" alt="oluwasege" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=oluwasege&theme=onedark" alt="oluwasege" /></a> </p>
 
-- 🌱 I’m currently learning JavaScript and NodeJS
-
-- 👯 I’m looking to collaborate on interesting projects and also make money
+- 👯 I’m looking to collaborate on interesting projects
 
 - 💬 Ask me about Software Development (backend)
 
